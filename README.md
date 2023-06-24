@@ -2,15 +2,15 @@
 
 ## 1. Screenshot
 
-![API Screenshot](https://github.com/lakshitaaS/Weather-API/blob/main/Code%20Screenshot_WeatherAPI.jpeg)
+![API Screenshot](https://github.com/Fastest-Coder-First/Lakshitaa_Anshal/blob/main/Code%20Screenshot_WeatherAPI.jpeg)
 
 ## 2.Architecture Diagram
 
 <!-- Architecture Diagram -->
-![Architecture Diagram](https://github.com/lakshitaaS/Weather-API/blob/main/ArchitectureDiagram_WeatherAPI.jpeg)
+![Architecture Diagram](https://github.com/Fastest-Coder-First/Lakshitaa_Anshal/blob/main/ArchitectureDiagram_WeatherAPI.jpeg)
 
 <!-- Code using Github Pilot -->
-![GithubCopilot](https://github.com/lakshitaaS/Weather-API/blob/main/GithubCopilot_WeatherAPI.jpeg)
+![GithubCopilot](https://github.com/Fastest-Coder-First/Lakshitaa_Anshal/blob/main/GithubCopilot_WeatherAPI.jpeg)
 
 ## 3. Description
 In a wider context, the python script will use the OpenWeatherMap API to fetch the weather forecast for a given city, and then display the retrieved information on the command line.
